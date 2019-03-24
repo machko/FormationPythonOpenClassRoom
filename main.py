@@ -13,6 +13,13 @@
 # Suivi d'un nombre de case, 
 #   Par exemple : E5 Déplacement de 5 case vers l'Est
 
+# Les cartes sont créer avec les symboles suivant : 
+#   O pour les murs
+#   . pour les portes
+#   U pour la sortie
+#   X position du joueur
+
+
 # Variables
 
 # Fonction, Liste des fonctions
